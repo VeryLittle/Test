@@ -1,0 +1,13 @@
+{
+    "name": "test/app",
+    "description" : "description",
+    "authors": [
+      {
+        "name": "My name",
+        "email": "kocheshko@mail.ru"
+      }
+    ],
+    "autoload": {
+      "classmap": ["src"]
+    }
+  }
